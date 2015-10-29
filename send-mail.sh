@@ -1,7 +1,7 @@
 #!/bin/bash
 email_to="name <email@email.com>"
 email_subject="email subject"
-email_attachment=filename.ics
+email_attachment=demo.ics
 api_key=key-1234567890abcdefghijklmnopqrstuv
 api_base_url=https://api.mailgun.net/v3/sandboxcc1234567890abcdefghijklmnopqrst.mailgun.org
 
