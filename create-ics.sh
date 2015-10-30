@@ -6,17 +6,17 @@ location=$4
 summary=$5
 description=$6
 
-if [ "$day" = "wed" ] || [ "$day" = "fri" ]
+if [ "$day" = "Wed" ] || [ "$day" = "Fri" ]
 	then
 		startTime=1930
 		endTime=2130
 
-	elif [ "$day" = "sat-am" ]
+	elif [ "$day" = "Sat-AM" ]
 		then
 			startTime=1000
 			endTime=1100
 
-	elif [ "$day" = "sat-pm" ]
+	elif [ "$day" = "Sat-PM" ]
 		then
 			startTime=1230
 			endTime=1330
