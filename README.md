@@ -1,7 +1,7 @@
 # mailgun-ics-sender
 
 Got a roster and want to send participants calender events by email as reminders?
-Here are some quick bash scripts to create *.ics files, and to send it by [Mailgun](http://www.mailgun.com).
+Here are some quick bash scripts to create *.ics files and then send them using [Mailgun](http://www.mailgun.com).
 
 Signup for a [Mailgun](http://www.mailgun.com) account and update the `api_key` and `api_base_url` variables in `send-mail.sh`
 
